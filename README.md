@@ -8,7 +8,6 @@ A reactive website providing new or expecting parents information on how doulas 
 
 ## Motivation
 
-Provides birth and postpartum tools to new parents at the most important time in their lives.
 
 ## Tech/framework used
 
